@@ -1,0 +1,20 @@
+p {
+	font-weight:bold;
+	}
+h2{
+	color:white;
+	text-decoration:none;
+	background:red;
+	text-align:center;
+	height:50px;
+	align-items:center;
+	justify-content:center;
+	display:flex;
+	}
+a{
+	text-decoration:none;
+	}
+h1{
+	color:red;
+	text-align:center;
+	}
